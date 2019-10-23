@@ -18,8 +18,9 @@ sections:
 - type: intro
   template: intro
   title: Patrick Scully
-  subtitle: "Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  \ncol
-    accumsan est arcu donec sed Eleifend Integer."
+  subtitle: Hey, there. Welcome to a whole website dedicated to me. This is basically
+    a place to send my new followers to learn about me and what I do. If you are interested
+    in my content please keep scrolling.
   section_id: intro
   background_style: style1
   actions:
