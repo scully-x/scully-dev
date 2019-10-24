@@ -5,13 +5,13 @@ sidebar:
   - title: Welcome
     url: "#intro"
     is_primary: true
-  - title: Who we are
+  - title: My Content
     url: "#one"
     is_primary: false
-  - title: What we do
+  - title: My Skills
     url: "#two"
     is_primary: false
-  - title: Get in touch
+  - title: Work with me
     url: "#three"
     is_primary: false
 sections:
