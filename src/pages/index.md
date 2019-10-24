@@ -82,9 +82,7 @@ sections:
   background_style: style1
   contact_list:
   - title: Address
-    text: |-
-      Based in Charlotte, NC<br>
-      From Franklin, MA
+    text: Based in Charlotte, NC
     url: https://twitter.com/pscully_
   - title: Email
     text: patrick@scully.dev
