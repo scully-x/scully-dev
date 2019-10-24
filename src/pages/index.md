@@ -39,8 +39,7 @@ sections:
   template: features
   title: Work With Me
   subtitle: Are you a start-up founder? Small business owner? There are many ways
-    I can help you realize your idea's full potential. Custom code, design, copy,
-    SEO, or consulting...it all starts with a conversation.
+    I can help you realize your idea's full potential.
   section_id: two
   background_style: style3
   features_list:
