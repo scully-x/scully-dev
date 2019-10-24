@@ -54,7 +54,7 @@ sections:
     icon: fa-lock
   - title: Consulting
     text: Are you in the idea phase of a new project but not sure which direction
-      to go in for your backend, frontend, design, voice, or marketing?
+      to go in for your backend, frontend, design, voice, or marketing? Let's talk.
     icon: fa-cog
   - title: Veroeros quis lorem
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
