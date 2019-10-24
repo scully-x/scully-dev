@@ -1,5 +1,5 @@
 ---
-title: Patrick Scully // Crafting Beautiful Online Experiences
+title: Crafting Beautiful Online Experiences
 sidebar:
   entries:
   - title: Welcome
