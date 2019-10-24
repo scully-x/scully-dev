@@ -83,10 +83,9 @@ sections:
   contact_list:
   - title: Address
     text: |-
-      12345 Somewhere Road #654
-      Nashville, TN 00000-0000
-      USA
-    url: ''
+      Based in Charlotte, NC
+      From Franklin, MA
+    url: https://twitter.com/pscully_
   - title: Email
     text: user@Hyperspace.tld
     url: "#"
