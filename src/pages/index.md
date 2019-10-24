@@ -56,9 +56,10 @@ sections:
     text: Are you in the idea phase of a new project but not sure which direction
       to go in for your backend, frontend, design, voice, or marketing? Let's talk.
     icon: fa-cog
-  - title: Veroeros quis lorem
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Conversion Optimization
+    text: Sending people to a poorly designed website or confusing digital assets
+      will result in failure online. We help you win that customer through design
+      and copy.
     icon: fa-desktop
   - title: Urna quis bibendum
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
