@@ -1,5 +1,5 @@
 ---
-title: Better WordPress YouTube Channel
+title: Better WordPress YT Channel
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
