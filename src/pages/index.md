@@ -66,8 +66,8 @@ sections:
       are. The piece of the ranking puzzle you are missing is strong link building.
     icon: fa-chain
   - title: Content Marketing
-    text: My 7 Karat Diamond writing service gets your copy popping off the page.  Webpages,
-      blog posts, etc.
+    text: My 7 Karat Diamond writing service gets your copy popping off the page.  Web
+      pages, blog posts, product descriptions etc.
     icon: fa-diamond
   actions:
   - label: Learn more
