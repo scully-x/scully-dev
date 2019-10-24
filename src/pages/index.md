@@ -65,9 +65,9 @@ sections:
     text: Once your website is up to par, what's next? Earning links and media mentions
       are. The piece of the ranking puzzle you are missing is strong link building.
     icon: fa-chain
-  - title: Aliquam urna dapibus
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Content Marketing
+    text: My 7 Karat Diamond writing service gets your copy popping off the page.  Webpages,
+      blog posts, etc.
     icon: fa-diamond
   actions:
   - label: Learn more
