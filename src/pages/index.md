@@ -81,16 +81,16 @@ sections:
   section_id: three
   background_style: style1
   contact_list:
+  - title: Phone
+    text: Connect on social
+    url: ''
   - title: Address
     text: |-
       Based in Charlotte, NC
       From Franklin, MA
     url: https://twitter.com/pscully_
   - title: Email
-    text: user@Hyperspace.tld
-    url: "#"
-  - title: Phone
-    text: "(000) 000-0000"
+    text: patrick@scully.dev
     url: ''
   social:
     title: Social
