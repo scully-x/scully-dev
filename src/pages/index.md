@@ -103,13 +103,13 @@ sections:
       url: https://www.facebook.com/realpatrickscully/
     - title: GitHub
       icon: fa-github
-      url: "#"
+      url: https://github.com/pscully
     - title: Instagram
       icon: fa-instagram
-      url: "#"
+      url: https://instagram.com/pscully_
     - title: LinkedIn
       icon: fa-linkedin
-      url: "#"
+      url: https://linkedin.com/in/pscully
   component: Contact
 menus:
   main:
