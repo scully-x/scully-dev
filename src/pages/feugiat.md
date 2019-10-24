@@ -4,7 +4,7 @@ content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
   weight: 2
-  excerpt: 'Possible Web is a top rated WordPress service focused on delivering the
+  excerpt: 'Possible Web is a top-rated WordPress service focused on delivering the
     best in technology and marketing to small business owners. '
   home_img:
     path: images/pic02.jpg
