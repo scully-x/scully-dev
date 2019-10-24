@@ -61,9 +61,9 @@ sections:
       will result in failure online. We help you win that customer through design
       and copy.
     icon: fa-desktop
-  - title: Urna quis bibendum
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Offsite SEO
+    text: Once your website is up to par, what's next? Earning links and media mentions
+      are. The piece of the ranking puzzle you are missing is strong link building.
     icon: fa-chain
   - title: Aliquam urna dapibus
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
