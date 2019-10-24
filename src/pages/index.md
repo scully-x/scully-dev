@@ -81,9 +81,6 @@ sections:
   section_id: three
   background_style: style1
   contact_list:
-  - title: Phone
-    text: Connect on social
-    url: ''
   - title: Address
     text: |-
       Based in Charlotte, NC
@@ -91,6 +88,9 @@ sections:
     url: https://twitter.com/pscully_
   - title: Email
     text: patrick@scully.dev
+    url: ''
+  - title: Phone
+    text: Connect on social
     url: ''
   social:
     title: Social
