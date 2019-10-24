@@ -52,9 +52,9 @@ sections:
     text: We've been building and ranking websites for 15+ years. Leverage our expertise
       to help lock in revenue-generating search engine positions.
     icon: fa-lock
-  - title: Sed erat ullam corper
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Consulting
+    text: Are you in the idea phase of a new project but not sure which direction
+      to go in for your backend, frontend, design, voice, or marketing?
     icon: fa-cog
   - title: Veroeros quis lorem
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
