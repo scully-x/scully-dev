@@ -3,6 +3,6 @@ landing_style: style1-alt
 alt_style: alt
 copyright: "&copy; Hyperspace. All rights reserved."
 links:
-- text: Copyright, Scully X, Inc.
+- text: Scully X, Inc.
   url: https://scully.dev/x
   new_window: false
