@@ -83,7 +83,7 @@ sections:
   contact_list:
   - title: Address
     text: |-
-      Based in Charlotte, NC
+      Based in Charlotte, NC<br>
       From Franklin, MA
     url: https://twitter.com/pscully_
   - title: Email
