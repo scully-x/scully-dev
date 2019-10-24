@@ -38,15 +38,15 @@ sections:
 - type: features
   template: features
   title: Work With Me
-  subtitle: 'Are you a start-up founder? Small business owner? There are many ways
-    I can help you realize your idea''s full potential. Whether through custom code,
-    design, copy, SEO, or consulting, '
+  subtitle: Are you a start-up founder? Small business owner? There are many ways
+    I can help you realize your idea's full potential. Custom code, design, copy,
+    SEO, or consulting...it all starts with a conversation.
   section_id: two
   background_style: style3
   features_list:
-  - title: Lorem ipsum amet
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Custom Development
+    text: 'My team and I are able to deliver custom-coded solutions to business owners
+      looking for anything from a business website to complex backend systems. '
     icon: fa-code
   - title: Aliquam sed nullam
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
