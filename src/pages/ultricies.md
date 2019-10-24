@@ -4,8 +4,8 @@ content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
   weight: 3
-  excerpt: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: Scully Media crafts beautiful web experiences for startups and global companies.
+    Contact us for more information.
   home_img:
     path: images/pic03.jpg
     data_position: 25% 25%
