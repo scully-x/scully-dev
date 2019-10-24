@@ -24,7 +24,7 @@ sections:
   section_id: intro
   background_style: style1
   actions:
-  - label: Learn more
+  - label: Find Patrick
     url: "#one"
     is_scrolly: true
     is_primary: false
