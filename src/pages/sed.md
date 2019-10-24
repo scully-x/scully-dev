@@ -1,11 +1,12 @@
 ---
-title: Possible Web
+title: Better WordPress
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
   weight: 1
-  excerpt: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: Better WordPress is a community of business owners and entrepreneurs who
+    use WordPress to power their business website. Together we learn, we experiment,
+    and we grow. Join us on YouTube and Facebook.
   home_img:
     path: images/pic01.jpg
     data_position: center center
