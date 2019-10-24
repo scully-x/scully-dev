@@ -37,10 +37,10 @@ sections:
   component: Spotlights
 - type: features
   template: features
-  title: What we do
-  subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit
-    bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  title: Work With Me
+  subtitle: 'Are you a start-up founder? Small business owner? There are many ways
+    I can help you realize your idea''s full potential. Whether through custom code,
+    design, copy, SEO, or consulting, '
   section_id: two
   background_style: style3
   features_list:
