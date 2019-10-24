@@ -48,9 +48,9 @@ sections:
     text: 'My team and I are able to deliver custom-coded solutions to business owners
       looking for anything from a business website to complex backend systems. '
     icon: fa-code
-  - title: Aliquam sed nullam
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
+  - title: Technical SEO
+    text: We've been building and ranking websites for 15+ years. Leverage our expertise
+      to help lock in revenue-generating search engine positions.
     icon: fa-lock
   - title: Sed erat ullam corper
     text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
