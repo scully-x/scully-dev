@@ -1,5 +1,5 @@
 ---
-title: Better WordPress FB Group
+title: Better WordPress Group
 content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
