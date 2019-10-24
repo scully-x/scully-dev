@@ -4,8 +4,8 @@ content_img_path: images/pic04.jpg
 home_spotlights:
   enabled: true
   weight: 2
-  excerpt: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: 'Possible Web is a top rated WordPress service focused on delivering the
+    best in technology and marketing to small business owners. '
   home_img:
     path: images/pic02.jpg
     data_position: top center
