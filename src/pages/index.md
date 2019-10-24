@@ -77,9 +77,7 @@ sections:
 - type: contact
   template: contact
   title: Get in touch
-  text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum,
-    urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  text: Custom code, design, copy, SEO, or consulting...it all starts with a conversation.
   section_id: three
   background_style: style1
   contact_list:
