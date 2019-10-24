@@ -100,7 +100,7 @@ sections:
       url: https://twitter.com/pscully_
     - title: Facebook
       icon: fa-facebook
-      url: "#"
+      url: https://www.facebook.com/realpatrickscully/
     - title: GitHub
       icon: fa-github
       url: "#"
