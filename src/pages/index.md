@@ -97,7 +97,7 @@ sections:
     social_icons:
     - title: Twitter
       icon: fa-twitter
-      url: "#"
+      url: https://twitter.com/pscully_
     - title: Facebook
       icon: fa-facebook
       url: "#"
